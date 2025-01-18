@@ -164,10 +164,10 @@
 ## 数据集下载
 
 您可以通过以下方式获取数据集：
-1. **直接下载**：点击 [这里](https://github.com/your-username/Classical-Chinese-Text-Dataset/archive/main.zip) 下载完整的 JSON 文件。
+1. **直接下载**：点击 [这里](https://github.com/wangxb96/Classical-Chinese-Text-Dataset/archive/main.zip) 下载完整的 JSON 文件。
 2. **Git 克隆**：使用以下命令克隆仓库：
    ```bash
-   git clone https://github.com/your-username/Classical-Chinese-Text-Dataset.git
+   git clone https://github.com/wangxb96/Classical-Chinese-Text-Dataset.git
    ```
 
 ---
@@ -221,21 +221,3 @@ Classical-Chinese-Text-Dataset/
 └── .gitignore                  # Git 忽略文件
 ```
 
----
-
-### 说明
-
-1. **数据集名单**：预留了多个经典古文的文件名，方便后续扩展。
-2. **泛化性**：在介绍中强调了数据集的通用性，适用于多种古文和多种任务。
-3. **贡献指南**：提供了清晰的贡献流程和要求，鼓励更多人参与。
-
-通过这个仓库，您可以轻松管理和分享标注好的古文数据集，同时吸引更多开发者和研究者参与贡献！
-
----
-
-### 使用方法
-1. 将上述内容复制到一个新的 `README.md` 文件中。
-2. 将文件保存到您的 GitHub 仓库根目录。
-3. 根据需要修改示例数据、联系方式等信息。
-
-通过这个仓库，您可以轻松管理和分享标注好的古文数据集，同时吸引更多开发者和研究者参与贡献！
