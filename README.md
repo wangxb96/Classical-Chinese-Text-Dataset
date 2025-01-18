@@ -172,6 +172,25 @@
 
 ---
 
+### 仓库结构
+
+```
+Classical-Chinese-Text-Dataset/
+├── data/
+│   ├── daodejing.json          # 《道德经》数据集
+│   ├── yijing.json             # 《易经》数据集
+│   ├── lunyu.json              # 《论语》数据集
+│   ├── mengzi.json             # 《孟子》数据集
+│   ├── zhuangzi.json           # 《庄子》数据集
+│   ├── shijing.json            # 《诗经》数据集
+│   └── chuci.json              # 《楚辞》数据集
+├── LICENSE                     # 开源许可证
+├── README.md                   # 项目说明文件
+└── .gitignore                  # Git 忽略文件
+```
+
+---
+
 ## 贡献指南
 
 欢迎贡献更多标注好的古文数据集！请遵循以下步骤：
@@ -202,22 +221,4 @@
 
 **Happy Coding!** 🚀
 
----
-
-### 仓库结构
-
-```
-Classical-Chinese-Text-Dataset/
-├── data/
-│   ├── daodejing.json          # 《道德经》数据集
-│   ├── yijing.json             # 《易经》数据集
-│   ├── lunyu.json              # 《论语》数据集
-│   ├── mengzi.json             # 《孟子》数据集
-│   ├── zhuangzi.json           # 《庄子》数据集
-│   ├── shijing.json            # 《诗经》数据集
-│   └── chuci.json              # 《楚辞》数据集
-├── LICENSE                     # 开源许可证
-├── README.md                   # 项目说明文件
-└── .gitignore                  # Git 忽略文件
-```
 
